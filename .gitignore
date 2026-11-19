@@ -1,0 +1,17 @@
+# klucze i ustawienia lokalne
+.env
+.vscode/
+.DS_Store
+
+# pliki techniczne Pythona
+__pycache__/
+*.pyc
+.venv/
+
+# modele, dane i logi (model i dane są w Digital Ocean Spaces)
+data/
+dev/
+models/
+*.csv
+*.pkl
+*.log
